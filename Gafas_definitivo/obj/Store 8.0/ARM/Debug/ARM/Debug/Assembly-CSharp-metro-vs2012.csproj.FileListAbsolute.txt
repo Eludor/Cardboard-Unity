@@ -1,0 +1,13 @@
+C:\Users\AJ\Documents\Gafas_definitivo\bin\Store 8.0\ARM\Debug\Assembly-CSharp.dll
+C:\Users\AJ\Documents\Gafas_definitivo\bin\Store 8.0\ARM\Debug\Assembly-CSharp.pdb
+C:\Users\AJ\Documents\Gafas_definitivo\bin\Store 8.0\ARM\Debug\Assembly-CSharp.pri
+C:\Users\AJ\Documents\Gafas_definitivo\bin\Store 8.0\ARM\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\AJ\Documents\Gafas_definitivo\bin\Store 8.0\ARM\Debug\Assembly-CSharp-firstpass.pri
+C:\Users\AJ\Documents\Gafas_definitivo\obj\Store 8.0\ARM\Debug\ARM\Debug\Assembly-CSharp-metro-vs2012.csprojResolveAssemblyReference.cache
+C:\Users\AJ\Documents\Gafas_definitivo\obj\Store 8.0\ARM\Debug\ARM\Debug\Assembly-CSharp.dll
+C:\Users\AJ\Documents\Gafas_definitivo\obj\Store 8.0\ARM\Debug\ARM\Debug\Assembly-CSharp.pdb
+C:\Users\AJ\Documents\Gafas_definitivo\obj\Store 8.0\ARM\Debug\ARM\Debug\priconfig.xml
+C:\Users\AJ\Documents\Gafas_definitivo\obj\Store 8.0\ARM\Debug\ARM\Debug\layout.resfiles
+C:\Users\AJ\Documents\Gafas_definitivo\obj\Store 8.0\ARM\Debug\ARM\Debug\resources.resfiles
+C:\Users\AJ\Documents\Gafas_definitivo\obj\Store 8.0\ARM\Debug\ARM\Debug\pri.resfiles
+C:\Users\AJ\Documents\Gafas_definitivo\obj\Store 8.0\ARM\Debug\ARM\Debug\LanguageQualifiers.txt
